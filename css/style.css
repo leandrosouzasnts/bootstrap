@@ -7,7 +7,7 @@ body {
 }
 
 .quem-somos {
-    background-color: #84898B;
+    background-color: #299B7F;
     color : #FFF;
 }
 
@@ -18,4 +18,19 @@ body {
 
 .margin-img-logo {
     margin-left: 50px;
+}
+
+.parceiros {
+    background-color: #c4ec11;
+    color : #FFF;
+}
+.servicos {
+    background-color: #CB6022;
+    color : white;
+}
+
+footer {
+    font-size : 5px;
+    background-color: #495057;
+    color : #FFF;
 }
